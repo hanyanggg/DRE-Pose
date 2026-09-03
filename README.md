@@ -1,5 +1,5 @@
 # DRE-Pose
 
-Official implementation of **Efficient Human Pose Estimation with Dynamic Resolution and Early-Exit Inference**.
+Official implementation of **DRE-Pose: Instance-Wise Resolution-Exit Path Allocation for Efficient Human Pose Estimation**.
 
 Code and reproduction instructions will be released soon.
